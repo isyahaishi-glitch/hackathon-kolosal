@@ -1,10 +1,12 @@
+<img width="1402" height="581" alt="Image" src="https://github.com/user-attachments/assets/248a48df-41f1-4d70-8890-dfacef03f406" />
+
 # UMKM Tool Prediksi Hasil Makanan Secara Instan
 
 Selamat datang di **UMKM Tool Prediksi Hasil Makanan Secara Instan**!  
 Project ini dibuat untuk membantu pelaku UMKM makanan dalam memprediksi hasil produksi dengan cepat, otomatis, dan tanpa ribet.
 
 Tool ini dibangun menggunakan **FastAPI** sehingga ringan, cepat, dan mudah diintegrasikan ke aplikasi apa pun.
-
+<img width="1402" height="581" alt="Image" src="https://github.com/user-attachments/assets/248a48df-41f1-4d70-8890-dfacef03f406" />
 Video Dokumentasi  
 https://drive.google.com/file/d/1yxgJXfxVo1fqtnpQVn16HuMgfmraPtq0/view?usp=sharing
 
