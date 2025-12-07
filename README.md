@@ -8,7 +8,7 @@ Project ini dibuat untuk membantu pelaku UMKM makanan dalam memprediksi hasil pr
 Tool ini dibangun menggunakan **FastAPI** sehingga ringan, cepat, dan mudah diintegrasikan ke aplikasi apa pun.
 
 Video Dokumentasi  
-https://drive.google.com/file/d/1yxgJXfxVo1fqtnpQVn16HuMgfmraPtq0/view?usp=sharing
+https://drive.google.com/drive/folders/1q9whj3Jpa9ykKkrc7V3DFYLN-uFrgofS?usp=drive_link
 
 ---
 
