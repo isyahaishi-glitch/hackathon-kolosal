@@ -15,10 +15,11 @@ https://drive.google.com/file/d/1yxgJXfxVo1fqtnpQVn16HuMgfmraPtq0/view?usp=shari
 ## 🐍 Dibuat Dengan
 Project ini dibangun menggunakan:
 
-- **Python**
-- **FastAPI**
-- **Uvicorn**
-- Library pendukung lain yang tercantum pada `requirements.txt`
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.uvicorn.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+Library pendukung lain yang tercantum pada `requirements.txt`
 
 ---
 
