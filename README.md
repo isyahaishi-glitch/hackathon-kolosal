@@ -43,3 +43,11 @@ pip install -r requirements.txt
 Lalu jalankan server menggunakan uvicorn:
 ```bash
 uvicorn app.main:app --reload
+```
+
+## 👥 Contributors
+Terima kasih untuk semua teman yang sudah membantu!
+
+<a href="https://github.com/isyahaishi-glitch/hackathon-kolosal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=isyahaishi-glitch/hackathon-kolosal" />
+</a>
