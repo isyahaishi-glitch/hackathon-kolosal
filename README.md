@@ -28,7 +28,7 @@ Dan library pendukung lain yang tercantum pada `requirements.txt`
 ## 🚀 Fitur Utama
 - Prediksi hasil produksi makanan secara instan  
 - API cepat berbasis FastAPI  
-- Bisa diintegrasikan ke mobile app, web, atau dashboard  
+- Menggunakan Kolosal AI
 - Cocok untuk UMKM skala kecil sampai menengah  
 
 ---
